@@ -39,15 +39,15 @@ To assess spatial and quantitative changes in land cover classes over a seven-ye
     
 # 🧪 Key Features
 
-> Reads classified raster datasets for two time periods (2017, 2024).
-> Calculates per-class land cover area (in km²) using raster cell resolution.
-> Computes net change in land cover classes between years.
-> Generates a horizontal bar plot grouped by land cover type:
+ #### 1. Reads classified raster datasets for two time periods (2017, 2024).
+ #### 2. Calculates per-class land cover area (in km²) using raster cell resolution.
+ #### 3. Computes net change in land cover classes between years.
+ #### 4. Generates a horizontal bar plot grouped by land cover type:
         Green: 2017
         Blue: 2024
         Red: Net Change
-> Includes a summary table of values directly in the visualization.
-> Handles inconsistencies (e.g., duplicate labels or capitalization) during processing.   
+ #### 5. Includes a summary table of values directly in the visualization.
+ #### 6. Handles inconsistencies (e.g., duplicate labels or capitalization) during processing.   
 
 #  🗂️ Land Cover Categories derived from Esri LivingAtlas LULC classification  
    | DN | Class Name         | Description |
@@ -63,3 +63,5 @@ To assess spatial and quantitative changes in land cover classes over a seven-ye
    | 11 | Rangeland          |  Open areas covered in homogenous grasses with little to no taller vegetation; wild cereals and grasses with no obvious human plotting (i.e., not a plotted field); examples: natural meadows and fields with sparse to no tree cover, open savanna with few to no trees, parks/golf courses/lawns, pastures. Mix of small clusters of plants or single plants dispersed on a landscape that shows exposed soil or rock; scrub-filled clearings within dense forests that are clearly not taller than trees; examples: moderate to sparse cover of bushes, shrubs and tufts of grass, savannas with very sparse grasses or other plants. |
 
 
+### Further study can be done to predict the future changes in LULC classes
+     https://www.mdpi.com/2072-4292/15/23/5522

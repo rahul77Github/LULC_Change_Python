@@ -68,4 +68,4 @@ To assess spatial and quantitative changes in land cover classes over a seven-ye
    | 11 | Rangeland          |  Open areas covered in homogenous grasses with little to no taller vegetation; wild cereals and grasses with no obvious human plotting (i.e., not a plotted field); examples: natural meadows and fields with sparse to no tree cover, open savanna with few to no trees, parks/golf courses/lawns, pastures. Mix of small clusters of plants or single plants dispersed on a landscape that shows exposed soil or rock; scrub-filled clearings within dense forests that are clearly not taller than trees; examples: moderate to sparse cover of bushes, shrubs and tufts of grass, savannas with very sparse grasses or other plants. |
 
 # 🌍 Land Use Change Visualization
-![Land Cover Change Bar Plot](assets/chart_land_use.png)
+![Land Use Chart](assets/chart_land_use.png)

@@ -39,20 +39,15 @@ To assess spatial and quantitative changes in land cover classes over a seven-ye
     
 # 🧪 Key Features
 
-    > Reads classified raster datasets for two time periods (2017, 2024).
-
-    > Calculates per-class land cover area (in km²) using raster cell resolution.
-
-    > Computes net change in land cover classes between years.
-
-    > Generates a horizontal bar plot grouped by land cover type:
+> Reads classified raster datasets for two time periods (2017, 2024).
+> Calculates per-class land cover area (in km²) using raster cell resolution.
+> Computes net change in land cover classes between years.
+> Generates a horizontal bar plot grouped by land cover type:
         Green: 2017
         Blue: 2024
         Red: Net Change
-
-    > Includes a summary table of values directly in the visualization.
-
-    > Handles inconsistencies (e.g., duplicate labels or capitalization) during processing.   
+> Includes a summary table of values directly in the visualization.
+> Handles inconsistencies (e.g., duplicate labels or capitalization) during processing.   
 
 #  🗂️ Land Cover Categories derived from Esri LivingAtlas LULC classification  
    | DN | Class Name         | Description |

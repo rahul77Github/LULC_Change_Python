@@ -22,7 +22,7 @@ To assess spatial and quantitative changes in land cover classes over a seven-ye
     ## Recommended to install in conda virtual environment
 
 # 🗺️ Raster Dataset Information 
-### The project uses multiple classified raster .tif files downloaded from Esri LivingAtlas based on remote sensing data, generated using supervised classification or land cover mapping algorithms.
+### The project uses multiple classified raster .tif files downloaded from Esri LivingAtlas based on remote sensing data, generated using supervised classification & land cover mapping algorithms.
 
 #### Dataset Properties:
 
